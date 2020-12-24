@@ -134,12 +134,10 @@ a:hover {
   color: #445C58;
   font-family: 'Courgette', cursive;
   width: 200px;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 400;
-  -webkit-box-shadow: 12px 7px 35px 0 #000000;
-  -moz-box-shadow: 12px 7px 35px 0 #000000;
-  box-shadow: 12px 7px 35px 0 #000000;
-  text-shadow: 6px 1px 10px #000000;
+  padding: 9px;
+  border: dotted #000000 2px;
   text-decoration: none;
   display: inline-block;
   cursor: pointer;
